@@ -4,7 +4,7 @@ Create taxonomic records for a species list
 using the ITIS database.
    
 written by Stefano Allesina (sallesina@uchicago.edu)
-october 25, 2013. Version 0.9.0
+october 25, 2013. Version 1.0.0
    
 Requirements:
 --------------

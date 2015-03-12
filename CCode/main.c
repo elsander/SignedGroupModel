@@ -2,8 +2,15 @@
 #include "SearchAlgs.h"
 #include "partition.h"
 
-//This code requires the C GSL library to run.
-//It takes in the number of species, an adjacency matrix, a random
+//Run multiple-chain Markov Chain Monte Carlo to partition nodes
+//of a network into groups
+//
+//Author: Elizabeth Sander (esander@uchicago.edu)
+//Version: 1.0.0
+//
+//Requirements: gcc compiler, GSL and GSL CBLAS libraries for C
+//
+//Takes in the number of species, an adjacency matrix, a random
 //seed, the number of steps for each chain to take, and the number of
 //chains.
 //A chain swap is attempted every 20 steps. This is hardcoded in the

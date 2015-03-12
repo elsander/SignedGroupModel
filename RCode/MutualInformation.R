@@ -1,3 +1,17 @@
+## Author: Elizabeth Sander (esander@uchicago.edu)
+## Version: 1.0.0
+##
+## MutInf calculates the mutual information (in nats)
+## between two partitions. If ent = TRUE, the function
+## will also return the entropies (in nats) of each partition.
+##
+## allMIs is a utility wrapper for MutInf. It takes in
+## a data.frame of partitions, with each partition stored
+## in a column. It then returns all pairwise MIs in a matrix.
+## Note that MI is a symmetric metric (i.e., MI(A,B) = MI(B,A)),
+## so the matrix contains values only in the upper triangular.
+## MI(A,A) = H(A), where H(.) is the entropy in nats.
+
 MutInf <- function(A, B, ent = FALSE){
     ##make sure that the partitions are in vector form
     A <- as.vector(as.matrix(A))
