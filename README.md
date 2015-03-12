@@ -26,4 +26,9 @@ is in the `PythonCode` folder. Detailed instructions can be found in
 ## Partition Analysis
 
 Several functions to compare and analyze network groupings can be found in 
-the `RCode` folder.
+the `RCode` folder. `MutualInformation.R` contains functions to calculate 
+the  similarity between partitions. `JackknifeMIs.R` calculates the MI
+between two partitions relative to the maximum possible MI. 
+`RandomizationPvals.R` calculates the p-value associated with a MI
+value (here, the p-value is the probability of getting an equal or
+higher MI when the group identities in the partitions are randomized).
