@@ -36,19 +36,19 @@ MutInf <- function(A, B, ent = FALSE){
         ABoverlap <- length(intersect(which(A == nijAB$Amod[i]),
                                       which(B == nijAB$Bmod[i])))
         if(ABoverlap > 0){
-            MI <- MI + ABoverlap*log(ABoverlap*S/
-                                            (niA[which(uniqA == nijAB$Amod[i])]
-                                             *njB[which(uniqB == nijAB$Bmod[i])]))
+            MI <- MI + ABoverlap/S*log(ABoverlap*S/
+                                       (niA[which(uniqA == nijAB$Amod[i])]
+                                        *njB[which(uniqB == nijAB$Bmod[i])]))
         }
     }
     
     ##choose whether to return MI only or entropies as well
     if(ent){
         Apart <- unlist(lapply(niA, S=S, function(x,S){
-            return(x*log(x/S))}))
+            return(x/S*log(x/S))}))
         entA <- -1*sum(Apart)
         Bpart <- unlist(lapply(njB, S=S, function(x,S){
-            return(x*log(x/S))}))
+            return(x/S*log(x/S))}))
         entB <- -1*sum(Bpart)
         return(c(entA, entB, MI))
     } else {
