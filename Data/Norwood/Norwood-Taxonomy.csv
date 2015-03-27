@@ -1,0 +1,446 @@
+input,tsn_species,tsn_genus,tsn_family,tsn_order,tsn_class,tsn_phylum,tsn_kingdom,species,genus,family,order,class,phylum,kingdom,log
+Ajuga reptans,32454,32451,32251,31632,18063,846496,202422,reptans,Ajuga,Lamiaceae,Lamiales,Magnoliopsida,Tracheophyta,Plantae,Species found
+Anthriscus sylvestris,29588,29585,500042,500017,18063,846496,202422,sylvestris,Anthriscus,Apiaceae,Apiales,Magnoliopsida,Tracheophyta,Plantae,Species found
+Bellis perennis,36826,36825,35420,35419,18063,846496,202422,perennis,Bellis,Asteraceae,Asterales,Magnoliopsida,Tracheophyta,Plantae,Species found
+Brassica napus,23060,23054,22669,822943,18063,846496,202422,napus,Brassica,Brassicaceae,Brassicales,Magnoliopsida,Tracheophyta,Plantae,Species found
+Capsella bursa-pastoris,22766,22765,22669,822943,18063,846496,202422,bursa-pastoris,Capsella,Brassicaceae,Brassicales,Magnoliopsida,Tracheophyta,Plantae,Species found
+Cerastium fontanum,19954,19943,19942,19520,18063,846496,202422,fontanum,Cerastium,Caryophyllaceae,Caryophyllales,Magnoliopsida,Tracheophyta,Plantae,Species found
+Chaerophyllum temulum,29618,29614,500042,500017,18063,846496,202422,temulum,Chaerophyllum,Apiaceae,Apiales,Magnoliopsida,Tracheophyta,Plantae,Species found
+Cirsium arvense,36335,36334,35420,35419,18063,846496,202422,arvense,Cirsium,Asteraceae,Asterales,Magnoliopsida,Tracheophyta,Plantae,Species found
+Cirsium vulgare,36428,36334,35420,35419,18063,846496,202422,vulgare,Cirsium,Asteraceae,Asterales,Magnoliopsida,Tracheophyta,Plantae,Species found
+Convolvulaceae,0,0,30648,500033,18063,846496,202422,,,Convolvulaceae,Solanales,Magnoliopsida,Tracheophyta,Plantae,Family found
+Cornus sanguinea,501636,27798,27796,27788,18063,846496,202422,sanguinea,Cornus,Cornaceae,Cornales,Magnoliopsida,Tracheophyta,Plantae,Species found
+Crataegus monogyna,24586,24539,24538,24057,18063,846496,202422,monogyna,Crataegus,Rosaceae,Rosales,Magnoliopsida,Tracheophyta,Plantae,Species found
+Galium aparine,34797,34796,34784,29910,18063,846496,202422,aparine,Galium,Rubiaceae,Gentianales,Magnoliopsida,Tracheophyta,Plantae,Species found
+Geranium robertianum,29119,29104,29103,29060,18063,846496,202422,robertianum,Geranium,Geraniaceae,Geraniales,Magnoliopsida,Tracheophyta,Plantae,Species found
+Heracleum sphondylium,29671,29669,500042,500017,18063,846496,202422,sphondylium,Heracleum,Apiaceae,Apiales,Magnoliopsida,Tracheophyta,Plantae,Species found
+Lamiastrum galeobdolon,515591,32537,32251,31632,18063,846496,202422,galeobdolon,Lamium,Lamiaceae,Lamiales,Magnoliopsida,Tracheophyta,Plantae,Species found
+Lamium album,32538,32537,32251,31632,18063,846496,202422,album,Lamium,Lamiaceae,Lamiales,Magnoliopsida,Tracheophyta,Plantae,Species found
+Lapsana communis,37830,37828,35420,35419,18063,846496,202422,communis,Lapsana,Asteraceae,Asterales,Magnoliopsida,Tracheophyta,Plantae,Species found
+Leontodon autumnalis,37883,37882,35420,35419,18063,846496,202422,autumnalis,Leontodon,Asteraceae,Asterales,Magnoliopsida,Tracheophyta,Plantae,Species found
+Ligustrum vulgare,32980,32973,32927,31632,18063,846496,202422,vulgare,Ligustrum,Oleaceae,Lamiales,Magnoliopsida,Tracheophyta,Plantae,Species found
+Matricaria recutita,780435,38073,35420,35419,18063,846496,202422,chamomilla,Matricaria,Asteraceae,Asterales,Magnoliopsida,Tracheophyta,Plantae,Species found
+Medicago sativa,183623,183622,500059,500022,18063,846496,202422,sativa,Medicago,Fabaceae,Fabales,Magnoliopsida,Tracheophyta,Plantae,Species found
+Mentha arvensis,565302,32264,32251,31632,18063,846496,202422,arvensis,Mentha,Lamiaceae,Lamiales,Magnoliopsida,Tracheophyta,Plantae,Species found
+Myosotis arvensis,31692,31687,31633,846605,18063,846496,202422,arvensis,Myosotis,Boraginaceae,Boraginales,Magnoliopsida,Tracheophyta,Plantae,Species found
+Papaver sp ,0,18881,18880,18409,18063,846496,202422,,Papaver,Papaveraceae,Ranunculales,Magnoliopsida,Tracheophyta,Plantae,Genus found
+Prunus spinosa,24802,24762,24538,24057,18063,846496,202422,spinosa,Prunus,Rosaceae,Rosales,Magnoliopsida,Tracheophyta,Plantae,Species found
+Ranunculus acris,18583,18558,18410,18409,18063,846496,202422,acris,Ranunculus,Ranunculaceae,Ranunculales,Magnoliopsida,Tracheophyta,Plantae,Species found
+Ranunculus repens,18642,18558,18410,18409,18063,846496,202422,repens,Ranunculus,Ranunculaceae,Ranunculales,Magnoliopsida,Tracheophyta,Plantae,Species found
+Rosa sp ,0,24807,24538,24057,18063,846496,202422,,Rosa,Rosaceae,Rosales,Magnoliopsida,Tracheophyta,Plantae,Genus found
+Rubus fruticosus,837315,24848,24538,24057,18063,846496,202422,plicatus,Rubus,Rosaceae,Rosales,Magnoliopsida,Tracheophyta,Plantae,Species found
+Senecio jacobaea,780394,780104,35420,35419,18063,846496,202422,vulgaris,Jacobaea,Asteraceae,Asterales,Magnoliopsida,Tracheophyta,Plantae,Species found
+Silene dioica,20064,20040,19942,19520,18063,846496,202422,dioica,Silene,Caryophyllaceae,Caryophyllales,Magnoliopsida,Tracheophyta,Plantae,Species found
+Sinapis arvensis,23310,23308,22669,822943,18063,846496,202422,arvensis,Sinapis,Brassicaceae,Brassicales,Magnoliopsida,Tracheophyta,Plantae,Species found
+Sonchus asper/oleraceus,0,38420,35420,35419,18063,846496,202422,,Sonchus,Asteraceae,Asterales,Magnoliopsida,Tracheophyta,Plantae,Genus found
+Spergula arvensis,505306,20364,19942,19520,18063,846496,202422,arvensis,Spergula,Caryophyllaceae,Caryophyllales,Magnoliopsida,Tracheophyta,Plantae,Species found
+Stachys sylvatica,32322,32310,32251,31632,18063,846496,202422,sylvatica,Stachys,Lamiaceae,Lamiales,Magnoliopsida,Tracheophyta,Plantae,Species found
+Stellaria graminea,20181,20163,19942,19520,18063,846496,202422,graminea,Stellaria,Caryophyllaceae,Caryophyllales,Magnoliopsida,Tracheophyta,Plantae,Species found
+Torilis japonica,29895,29893,500042,500017,18063,846496,202422,japonica,Torilis,Apiaceae,Apiales,Magnoliopsida,Tracheophyta,Plantae,Species found
+Trifolium pratense/repens,0,26204,500059,500022,18063,846496,202422,,Trifolium,Fabaceae,Fabales,Magnoliopsida,Tracheophyta,Plantae,Genus found
+Veronica persica,33405,33396,32869,31632,18063,846496,202422,persica,Veronica,Plantaginaceae,Lamiales,Magnoliopsida,Tracheophyta,Plantae,Species found
+Viburnum lanatum,0,35249,35346,35247,18063,846496,202422,,Viburnum,Adoxaceae,Dipsacales,Magnoliopsida,Tracheophyta,Plantae,Genus found
+Vicia hirsute,0,26329,500059,500022,18063,846496,202422,,Vicia,Fabaceae,Fabales,Magnoliopsida,Tracheophyta,Plantae,Genus found
+Vicia sativa,26355,26329,500059,500022,18063,846496,202422,sativa,Vicia,Fabaceae,Fabales,Magnoliopsida,Tracheophyta,Plantae,Species found
+Vicia sepium,26357,26329,500059,500022,18063,846496,202422,sepium,Vicia,Fabaceae,Fabales,Magnoliopsida,Tracheophyta,Plantae,Species found
+Triticosecale,0,781315,40351,846620,18063,846496,202422,,Triticosecale,Poaceae,Poales,Magnoliopsida,Tracheophyta,Plantae,Genus found
+Aphanes arvensis,184592,184591,24538,24057,18063,846496,202422,arvensis,Aphanes,Rosaceae,Rosales,Magnoliopsida,Tracheophyta,Plantae,Species found
+Avena sativa,41459,41455,40351,846620,18063,846496,202422,sativa,Avena,Poaceae,Poales,Magnoliopsida,Tracheophyta,Plantae,Species found
+Corylus avellana,501642,19505,19465,19273,18063,846496,202422,avellana,Corylus,Betulaceae,Fagales,Magnoliopsida,Tracheophyta,Plantae,Species found
+Matricaria discoidea,501470,38073,35420,35419,18063,846496,202422,discoidea,Matricaria,Asteraceae,Asterales,Magnoliopsida,Tracheophyta,Plantae,Species found
+Plantago sp ,0,32870,32869,31632,18063,846496,202422,,Plantago,Plantaginaceae,Lamiales,Magnoliopsida,Tracheophyta,Plantae,Genus found
+Poaceae,0,0,40351,846620,18063,846496,202422,,,Poaceae,Poales,Magnoliopsida,Tracheophyta,Plantae,Family found
+Rumex sp ,0,20933,20842,19520,18063,846496,202422,,Rumex,Polygonaceae,Caryophyllales,Magnoliopsida,Tracheophyta,Plantae,Genus found
+Scrophularia auriculata,507163,34030,33005,31632,18063,846496,202422,auriculata,Scrophularia,Scrophulariaceae,Lamiales,Magnoliopsida,Tracheophyta,Plantae,Species found
+Triticum aestivum,42237,42236,40351,846620,18063,846496,202422,aestivum,Triticum,Poaceae,Poales,Magnoliopsida,Tracheophyta,Plantae,Species found
+Urtica dioica,19152,19151,19119,24057,18063,846496,202422,dioica,Urtica,Urticaceae,Rosales,Magnoliopsida,Tracheophyta,Plantae,Species found
+Veronica arvensis,33411,33396,32869,31632,18063,846496,202422,arvensis,Veronica,Plantaginaceae,Lamiales,Magnoliopsida,Tracheophyta,Plantae,Species found
+Acer campestre,28739,28727,28657,28643,18063,846496,202422,campestre,Acer,Sapindaceae,Sapindales,Magnoliopsida,Tracheophyta,Plantae,Species found
+Arctium minus,36546,36544,35420,35419,18063,846496,202422,minus,Arctium,Asteraceae,Asterales,Magnoliopsida,Tracheophyta,Plantae,Species found
+Glechoma hederacea,502801,500297,32251,31632,18063,846496,202422,hederacea,Glechoma,Lamiaceae,Lamiales,Magnoliopsida,Tracheophyta,Plantae,Species found
+Potentilla reptans,24743,24666,24538,24057,18063,846496,202422,reptans,Potentilla,Rosaceae,Rosales,Magnoliopsida,Tracheophyta,Plantae,Species found
+Quercus robur,19405,19276,19275,19273,18063,846496,202422,robur,Quercus,Fagaceae,Fagales,Magnoliopsida,Tracheophyta,Plantae,Species found
+Trifolium dubium,26205,26204,500059,500022,18063,846496,202422,dubium,Trifolium,Fabaceae,Fabales,Magnoliopsida,Tracheophyta,Plantae,Species found
+Allium ursinum,810202,42634,182703,897479,18063,846496,202422,ursinum,Allium,Amaryllidaceae,Asparagales,Magnoliopsida,Tracheophyta,Plantae,Species found
+Cardamine flexuosa,22795,22768,22669,822943,18063,846496,202422,flexuosa,Cardamine,Brassicaceae,Brassicales,Magnoliopsida,Tracheophyta,Plantae,Species found
+Cardamine pratensis,22773,22768,22669,822943,18063,846496,202422,pratensis,Cardamine,Brassicaceae,Brassicales,Magnoliopsida,Tracheophyta,Plantae,Species found
+Chenopodium sp ,0,20589,20714,19520,18063,846496,202422,,Chenopodium,Amaranthaceae,Caryophyllales,Magnoliopsida,Tracheophyta,Plantae,Genus found
+Clematis vitalba,18717,18685,18410,18409,18063,846496,202422,vitalba,Clematis,Ranunculaceae,Ranunculales,Magnoliopsida,Tracheophyta,Plantae,Species found
+Epilobium sp ,0,27280,27279,27072,18063,846496,202422,,Epilobium,Onagraceae,Myrtales,Magnoliopsida,Tracheophyta,Plantae,Genus found
+Euphorbia helioscopia,28077,28032,28031,822428,18063,846496,202422,helioscopia,Euphorbia,Euphorbiaceae,Malpighiales,Magnoliopsida,Tracheophyta,Plantae,Species found
+Fallopia convolvulus,513511,823760,20842,19520,18063,846496,202422,convolvulus,Fallopia,Polygonaceae,Caryophyllales,Magnoliopsida,Tracheophyta,Plantae,Species found
+Geranium dissectum,29135,29104,29103,29060,18063,846496,202422,dissectum,Geranium,Geraniaceae,Geraniales,Magnoliopsida,Tracheophyta,Plantae,Species found
+Geum urbanum,24663,24644,24538,24057,18063,846496,202422,urbanum,Geum,Rosaceae,Rosales,Magnoliopsida,Tracheophyta,Plantae,Species found
+Asteraceae,0,0,35420,35419,18063,846496,202422,,,Asteraceae,Asterales,Magnoliopsida,Tracheophyta,Plantae,Family found
+Lamium purpureum,32543,32537,32251,31632,18063,846496,202422,purpureum,Lamium,Lamiaceae,Lamiales,Magnoliopsida,Tracheophyta,Plantae,Species found
+Mercurialis perennis,0,28353,28031,822428,18063,846496,202422,,Mercurialis,Euphorbiaceae,Malpighiales,Magnoliopsida,Tracheophyta,Plantae,Genus found
+Persicaria sp ,0,823756,20842,19520,18063,846496,202422,,Persicaria,Polygonaceae,Caryophyllales,Magnoliopsida,Tracheophyta,Plantae,Genus found
+Picris echioides,780367,780097,35420,35419,18063,846496,202422,echioides,Helminthotheca,Asteraceae,Asterales,Magnoliopsida,Tracheophyta,Plantae,Species found
+Polygonum sp ,0,20847,20842,19520,18063,846496,202422,,Polygonum,Polygonaceae,Caryophyllales,Magnoliopsida,Tracheophyta,Plantae,Genus found
+Prunella vulgaris,32381,32380,32251,31632,18063,846496,202422,vulgaris,Prunella,Lamiaceae,Lamiales,Magnoliopsida,Tracheophyta,Plantae,Species found
+Sambucus nigra,35324,35315,35346,35247,18063,846496,202422,nigra,Sambucus,Adoxaceae,Dipsacales,Magnoliopsida,Tracheophyta,Plantae,Species found
+Senecio vulgaris,36194,36084,35420,35419,18063,846496,202422,vulgaris,Senecio,Asteraceae,Asterales,Magnoliopsida,Tracheophyta,Plantae,Species found
+Sonchus arvensis,38421,38420,35420,35419,18063,846496,202422,arvensis,Sonchus,Asteraceae,Asterales,Magnoliopsida,Tracheophyta,Plantae,Species found
+Stellaria media,20169,20163,19942,19520,18063,846496,202422,media,Stellaria,Caryophyllaceae,Caryophyllales,Magnoliopsida,Tracheophyta,Plantae,Species found
+Taraxacum officinale,36213,36199,35420,35419,18063,846496,202422,officinale,Taraxacum,Asteraceae,Asterales,Magnoliopsida,Tracheophyta,Plantae,Species found
+Veronica hederifolia,33418,33396,32869,31632,18063,846496,202422,hederifolia,Veronica,Plantaginaceae,Lamiales,Magnoliopsida,Tracheophyta,Plantae,Species found
+Viola arvensis,22037,22030,22023,822428,18063,846496,202422,arvensis,Viola,Violaceae,Malpighiales,Magnoliopsida,Tracheophyta,Plantae,Species found
+Acer pseudoplatanus,28756,28727,28657,28643,18063,846496,202422,pseudoplatanus,Acer,Sapindaceae,Sapindales,Magnoliopsida,Tracheophyta,Plantae,Species found
+Fraxinus excelsior,502663,32928,32927,31632,18063,846496,202422,excelsior,Fraxinus,Oleaceae,Lamiales,Magnoliopsida,Tracheophyta,Plantae,Species found
+Hyacinthoides non-scripta,810156,500337,810124,897479,18063,846496,202422,non-scripta,Hyacinthoides,Asparagaceae,Asparagales,Magnoliopsida,Tracheophyta,Plantae,Species found
+Sherardia arvensis,35237,35236,34784,29910,18063,846496,202422,arvensis,Sherardia,Rubiaceae,Gentianales,Magnoliopsida,Tracheophyta,Plantae,Species found
+Lotus corniculatus,26362,26361,500059,500022,18063,846496,202422,corniculatus,Lotus,Fabaceae,Fabales,Magnoliopsida,Tracheophyta,Plantae,Species found
+Rhingia campestris,0,140640,139621,118831,99208,82696,202423,,Rhingia,Syrphidae,Diptera,Insecta,Arthropoda,Animalia,Genus found
+Agriotes pallidulus,0,113882,113879,109216,99208,82696,202423,,Agriotes,Elateridae,Coleoptera,Insecta,Arthropoda,Animalia,Genus found
+Anaspis maculata,0,772374,678380,109216,99208,82696,202423,,Anaspis,Scraptiidae,Coleoptera,Insecta,Arthropoda,Animalia,Genus found
+Anthocomus fasciatus,0,0,0,0,0,0,0,fasciatus,Anthocomus,Melyridae,Coleoptera,Insecta,Arthropoda,Animalia,Genus found
+Bicellaria vana,0,136495,136392,118831,99208,82696,202423,,Bicellaria,Hybotidae,Diptera,Insecta,Arthropoda,Animalia,Genus found
+Botanophila striolata,149405,149260,148685,118831,99208,82696,202423,striolata,Botanophila,Anthomyiidae,Diptera,Insecta,Arthropoda,Animalia,Species found
+Bracon sp,0,153257,152867,152741,99208,82696,202423,,Bracon,Braconidae,Hymenoptera,Insecta,Arthropoda,Animalia,Genus found
+Cantharis lateralis,0,834303,113837,109216,99208,82696,202423,,Cantharis,Cantharidae,Coleoptera,Insecta,Arthropoda,Animalia,Genus found
+Chlorops hypostigma,0,148035,147644,118831,99208,82696,202423,,Chlorops,Chloropidae,Diptera,Insecta,Arthropoda,Animalia,Genus found
+Chlorops pumilionis,0,148035,147644,118831,99208,82696,202423,,Chlorops,Chloropidae,Diptera,Insecta,Arthropoda,Animalia,Genus found
+Dacnusa maculipes,0,152879,152867,152741,99208,82696,202423,,Dacnusa,Braconidae,Hymenoptera,Insecta,Arthropoda,Animalia,Genus found
+Delia sp,0,149696,148685,118831,99208,82696,202423,,Delia,Anthomyiidae,Diptera,Insecta,Arthropoda,Animalia,Genus found
+Dicraeus tibialis,147720,147714,147644,118831,99208,82696,202423,tibialis,Dicraeus,Chloropidae,Diptera,Insecta,Arthropoda,Animalia,Species found
+Dolichopus ungulatus,138286,137953,136824,118831,99208,82696,202423,ungulatus,Dolichopus,Dolichopodidae,Diptera,Insecta,Arthropoda,Animalia,Species found
+Empis (Xanthempis) sp,0,135943,135830,118831,99208,82696,202423,,Empis,Empididae,Diptera,Insecta,Arthropoda,Animalia,Genus found
+Empis caudatula,0,135943,135830,118831,99208,82696,202423,,Empis,Empididae,Diptera,Insecta,Arthropoda,Animalia,Genus found
+Empis livida,0,135943,135830,118831,99208,82696,202423,,Empis,Empididae,Diptera,Insecta,Arthropoda,Animalia,Genus found
+Empis nigripes,0,135943,135830,118831,99208,82696,202423,,Empis,Empididae,Diptera,Insecta,Arthropoda,Animalia,Genus found
+Endasys sp,0,153569,153360,152741,99208,82696,202423,,Endasys,Ichneumonidae,Hymenoptera,Insecta,Arthropoda,Animalia,Genus found
+Episyrphus balteatus,0,0,0,0,0,0,0,balteatus,Episyrphus,Syrphidae,Diptera,Insecta,Arthropoda,Animalia,Species found
+Fannia serena,151467,151329,151314,118831,99208,82696,202423,serena,Fannia,Fanniidae,Diptera,Insecta,Arthropoda,Animalia,Species found
+Fannia sp,0,151329,151314,118831,99208,82696,202423,,Fannia,Fanniidae,Diptera,Insecta,Arthropoda,Animalia,Genus found
+Helina sp,0,150312,150025,118831,99208,82696,202423,,Helina,Muscidae,Diptera,Insecta,Arthropoda,Animalia,Genus found
+Hylemya vagans,0,149224,148685,118831,99208,82696,202423,,Hylemya,Anthomyiidae,Diptera,Insecta,Arthropoda,Animalia,Genus found
+Microphor anomalus,0,0,0,0,0,0,0,anomalus,Microphor,Dolichopodidae,Diptera,Insecta,Arthropoda,Animalia,Genus found
+Miscogaster maculata,0,0,0,0,0,0,0,maculata,Miscogaster,Pteromalidae,Hymenoptera,Insecta,Arthropoda,Animalia,Genus found
+Oscinella cariciphila,0,147947,147644,118831,99208,82696,202423,,Oscinella,Chloropidae,Diptera,Insecta,Arthropoda,Animalia,Genus found
+Phaenocarpa ruficeps,0,153174,152867,152741,99208,82696,202423,,Phaenocarpa,Braconidae,Hymenoptera,Insecta,Arthropoda,Animalia,Genus found
+Phaonia lasiophthalma,0,150480,150025,118831,99208,82696,202423,,Phaonia,Muscidae,Diptera,Insecta,Arthropoda,Animalia,Genus found
+Phasia pusilla,0,650850,152643,118831,99208,82696,202423,,Phasia,Tachinidae,Diptera,Insecta,Arthropoda,Animalia,Genus found
+Pimpla contemplator,0,0,0,0,0,0,0,contemplator,Pimpla,Ichneumonidae,Hymenoptera,Insecta,Arthropoda,Animalia,Genus found
+Platycheirus albimanus,0,139712,139621,118831,99208,82696,202423,,Platycheirus,Syrphidae,Diptera,Insecta,Arthropoda,Animalia,Genus found
+Platycheirus nielseni,139793,139712,139621,118831,99208,82696,202423,nielseni,Platycheirus,Syrphidae,Diptera,Insecta,Arthropoda,Animalia,Species found
+Platypalpus sp,0,136617,136392,118831,99208,82696,202423,,Platypalpus,Hybotidae,Diptera,Insecta,Arthropoda,Animalia,Genus found
+Psychodidae sp,0,0,125351,118831,99208,82696,202423,,,Psychodidae,Diptera,Insecta,Arthropoda,Animalia,Family found
+Psyllidae sp,0,0,109187,103359,99208,82696,202423,,,Psyllidae,Hemiptera,Insecta,Arthropoda,Animalia,Family found
+Pteromalidae,0,0,153974,152741,99208,82696,202423,,,Pteromalidae,Hymenoptera,Insecta,Arthropoda,Animalia,Family found
+Scathophaga stercoraria,148662,148598,678096,118831,99208,82696,202423,stercoraria,Scathophaga,Scathophagidae,Diptera,Insecta,Arthropoda,Animalia,Species found
+Scatopsidae sp,0,0,125618,118831,99208,82696,202423,,,Scatopsidae,Diptera,Insecta,Arthropoda,Animalia,Family found
+Tenthredopsis nassata,0,0,0,0,0,0,0,nassata,Tenthredopsis,Tenthredinidae,Hymenoptera,Insecta,Arthropoda,Animalia,Genus found
+Oscinella nitidissima,147953,147947,147644,118831,99208,82696,202423,nitidissima,Oscinella,Chloropidae,Diptera,Insecta,Arthropoda,Animalia,Species found
+Pegoplata aestiva or Adia cinerella,149033,149027,148685,118831,99208,82696,202423,aestiva,Pegoplata,Anthomyiidae,Diptera,Insecta,Arthropoda,Animalia,Species found
+Neoascia podagrica,0,141096,139621,118831,99208,82696,202423,,Neoascia,Syrphidae,Diptera,Insecta,Arthropoda,Animalia,Genus found
+Syritta pipiens,141419,141417,139621,118831,99208,82696,202423,pipiens,Syritta,Syrphidae,Diptera,Insecta,Arthropoda,Animalia,Species found
+Neomyia cornicina,150258,150257,150025,118831,99208,82696,202423,cornicina,Neomyia,Muscidae,Diptera,Insecta,Arthropoda,Animalia,Species found
+Eulophidae,0,0,153770,152741,99208,82696,202423,,,Eulophidae,Hymenoptera,Insecta,Arthropoda,Animalia,Family found
+Torymus sp,0,153969,153968,152741,99208,82696,202423,,Torymus,Torymidae,Hymenoptera,Insecta,Arthropoda,Animalia,Genus found
+Anaspis pulicaria,0,772374,678380,109216,99208,82696,202423,,Anaspis,Scraptiidae,Coleoptera,Insecta,Arthropoda,Animalia,Genus found
+Anapausis soluta,0,125737,125618,118831,99208,82696,202423,,Anapausis,Scatopsidae,Diptera,Insecta,Arthropoda,Animalia,Genus found
+Anthomyza gracilis,144411,144408,144407,118831,99208,82696,202423,gracilis,Anthomyza,Anthomyzidae,Diptera,Insecta,Arthropoda,Animalia,Species found
+Apis mellifera,154396,154395,154394,152741,99208,82696,202423,mellifera,Apis,Apidae,Hymenoptera,Insecta,Arthropoda,Animalia,Species found
+Bombus lapidarius,714942,154397,154394,152741,99208,82696,202423,lapidarius,Bombus,Apidae,Hymenoptera,Insecta,Arthropoda,Animalia,Species found
+Bombus pascuorum,714976,154397,154394,152741,99208,82696,202423,pascuorum,Bombus,Apidae,Hymenoptera,Insecta,Arthropoda,Animalia,Species found
+Bombus terrestris,714842,154397,154394,152741,99208,82696,202423,terrestris,Bombus,Apidae,Hymenoptera,Insecta,Arthropoda,Animalia,Species found
+Cheilosia honesta,0,140418,139621,118831,99208,82696,202423,,Cheilosia,Syrphidae,Diptera,Insecta,Arthropoda,Animalia,Genus found
+Chrysopilus asiliformis,0,130758,130742,118831,99208,82696,202423,,Chrysopilus,Rhagionidae,Diptera,Insecta,Arthropoda,Animalia,Genus found
+Dilophus febrilis,0,11181,11149,11148,10686,660055,630578,,Dilophus,Dictyotaceae,Dictyotales,Phaeophyceae,Phaeophyta,Chromista,Genus found
+Eriothrix rufomaculata,0,650809,152643,118831,99208,82696,202423,,Eriothrix,Tachinidae,Diptera,Insecta,Arthropoda,Animalia,Genus found
+Eristalis arbustorum,140917,140904,139621,118831,99208,82696,202423,arbustorum,Eristalis,Syrphidae,Diptera,Insecta,Arthropoda,Animalia,Species found
+Helophilus pendulus,0,140779,139621,118831,99208,82696,202423,,Helophilus,Syrphidae,Diptera,Insecta,Arthropoda,Animalia,Genus found
+Sarcophaga vagans,0,152062,151815,118831,99208,82696,202423,,Sarcophaga,Sarcophagidae,Diptera,Insecta,Arthropoda,Animalia,Genus found
+Kuzinia sp,0,0,0,0,0,0,0,,Kuzinia,Acaridae,Sarcoptiformes,Arachnida,Arthropoda,Animalia,Genus found
+Lasioglossum sp,0,154357,154348,152741,99208,82696,202423,,Lasioglossum,Halictidae,Hymenoptera,Insecta,Arthropoda,Animalia,Genus found
+Lucilia caesar,0,151596,151495,118831,99208,82696,202423,,Lucilia,Calliphoridae,Diptera,Insecta,Arthropoda,Animalia,Genus found
+Lucilia sericata,0,151596,151495,118831,99208,82696,202423,,Lucilia,Calliphoridae,Diptera,Insecta,Arthropoda,Animalia,Genus found
+Melanostoma mellinum,139700,139697,139621,118831,99208,82696,202423,mellinum,Melanostoma,Syrphidae,Diptera,Insecta,Arthropoda,Animalia,Species found
+Melinda viridicyanea,0,0,0,0,0,0,0,viridicyanea,Melinda,Calliphoridae,Diptera,Insecta,Arthropoda,Animalia,Genus found
+Neomyia viridescens,0,150257,150025,118831,99208,82696,202423,,Neomyia,Muscidae,Diptera,Insecta,Arthropoda,Animalia,Genus found
+Pegoplata depilis,0,149027,148685,118831,99208,82696,202423,,Pegoplata,Anthomyiidae,Diptera,Insecta,Arthropoda,Animalia,Genus found
+Pierretia sp,0,152133,151815,118831,99208,82696,202423,,Pierretia,Sarcophagidae,Diptera,Insecta,Arthropoda,Animalia,Genus found
+Rhagonycha fulva,834487,834309,113837,109216,99208,82696,202423,fulva,Rhagonycha,Cantharidae,Coleoptera,Insecta,Arthropoda,Animalia,Species found
+Rhinophora lepida,0,0,0,0,0,0,0,lepida,Rhinophora,Rhinophoridae,Diptera,Insecta,Arthropoda,Animalia,Species found
+Siphona geniculata,652501,650762,152643,118831,99208,82696,202423,geniculata,Siphona,Tachinidae,Diptera,Insecta,Arthropoda,Animalia,Species found
+Sphaerophoria sp,0,140247,139621,118831,99208,82696,202423,,Sphaerophoria,Syrphidae,Diptera,Insecta,Arthropoda,Animalia,Genus found
+Tetramesa sp,0,154016,154008,152741,99208,82696,202423,,Tetramesa,Eurytomidae,Hymenoptera,Insecta,Arthropoda,Animalia,Genus found
+Theroscopus sp,0,153361,153360,152741,99208,82696,202423,,Theroscopus,Ichneumonidae,Hymenoptera,Insecta,Arthropoda,Animalia,Genus found
+Tricimba cincta,148013,148010,147644,118831,99208,82696,202423,cincta,Tricimba,Chloropidae,Diptera,Insecta,Arthropoda,Animalia,Species found
+Oscinella frit,147949,147947,147644,118831,99208,82696,202423,frit,Oscinella,Chloropidae,Diptera,Insecta,Arthropoda,Animalia,Species found
+Sepsis fulgens,0,145013,144975,118831,99208,82696,202423,,Sepsis,Sepsidae,Diptera,Insecta,Arthropoda,Animalia,Genus found
+Eupeodes luniger,140060,140026,139621,118831,99208,82696,202423,luniger,Eupeodes,Syrphidae,Diptera,Insecta,Arthropoda,Animalia,Species found
+Oedemera nobilis,0,0,0,0,0,0,0,nobilis,Oedemera,Oedemeridae,Coleoptera,Insecta,Arthropoda,Animalia,Genus found
+Rhagio tringarius,130868,130828,130742,118831,99208,82696,202423,tringarius,Rhagio,Rhagionidae,Diptera,Insecta,Arthropoda,Animalia,Species found
+Andrena dorsata,752332,154362,154361,152741,99208,82696,202423,dorsata,Andrena,Andrenidae,Hymenoptera,Insecta,Arthropoda,Animalia,Species found
+Cantharis decipiens,0,834303,113837,109216,99208,82696,202423,,Cantharis,Cantharidae,Coleoptera,Insecta,Arthropoda,Animalia,Genus found
+Glyphipterix simpliciella,0,0,0,0,0,0,0,simpliciella,Glyphipterix,Glyphipterigidae,Lepidoptera,Insecta,Arthropoda,Animalia,Species found
+Malachius bipustulatus,0,0,0,0,0,0,0,bipustulatus,Malachius,Melyridae,Coleoptera,Insecta,Arthropoda,Animalia,Genus found
+Phyllonorycter sp,0,0,0,0,0,0,0,,Phyllonorycter,Gracillariidae,Lepidoptera,Insecta,Arthropoda,Animalia,Species found
+Sciaridae sp,0,0,122702,118831,99208,82696,202423,,,Sciaridae,Diptera,Insecta,Arthropoda,Animalia,Family found
+Braconidae,0,0,152867,152741,99208,82696,202423,,,Braconidae,Hymenoptera,Insecta,Arthropoda,Animalia,Family found
+Anthophila fabriciana,0,0,0,0,0,0,0,fabriciana,Anthophila,Choreutidae,Lepidoptera,Insecta,Arthropoda,Animalia,Species found
+Azelia zetterstedtii,150064,150053,150025,118831,99208,82696,202423,zetterstedtii,Azelia,Muscidae,Diptera,Insecta,Arthropoda,Animalia,Species found
+Calliphora vicina,151555,151541,151495,118831,99208,82696,202423,vicina,Calliphora,Calliphoridae,Diptera,Insecta,Arthropoda,Animalia,Species found
+Cantharis nigra,0,834303,113837,109216,99208,82696,202423,,Cantharis,Cantharidae,Coleoptera,Insecta,Arthropoda,Animalia,Genus found
+Cheilosia illustrata,0,140418,139621,118831,99208,82696,202423,,Cheilosia,Syrphidae,Diptera,Insecta,Arthropoda,Animalia,Genus found
+Chloromyia formosa,130323,130322,130150,118831,99208,82696,202423,formosa,Chloromyia,Stratiomyidae,Diptera,Insecta,Arthropoda,Animalia,Species found
+Chorebus sp,0,152894,152867,152741,99208,82696,202423,,Chorebus,Braconidae,Hymenoptera,Insecta,Arthropoda,Animalia,Genus found
+Dicraeus vagans,0,147714,147644,118831,99208,82696,202423,,Dicraeus,Chloropidae,Diptera,Insecta,Arthropoda,Animalia,Genus found
+Diplonevra sp,0,138998,138921,118831,99208,82696,202423,,Diplonevra,Phoridae,Diptera,Insecta,Arthropoda,Animalia,Genus found
+Empis chioptera,0,135943,135830,118831,99208,82696,202423,,Empis,Empididae,Diptera,Insecta,Arthropoda,Animalia,Genus found
+Eristalis pertinax,0,140904,139621,118831,99208,82696,202423,,Eristalis,Syrphidae,Diptera,Insecta,Arthropoda,Animalia,Genus found
+Eudasyphora cyanella,0,150231,150025,118831,99208,82696,202423,,Eudasyphora,Muscidae,Diptera,Insecta,Arthropoda,Animalia,Genus found
+Formicidae A,0,0,154193,152741,99208,82696,202423,,,Formicidae,Hymenoptera,Insecta,Arthropoda,Animalia,Family found
+Grammoptera ruficornis,0,701863,114497,109216,99208,82696,202423,,Grammoptera,Cerambycidae,Coleoptera,Insecta,Arthropoda,Animalia,Genus found
+Hemicrepidius hirtus,0,0,0,0,0,0,0,hirtus,Hemicrepidius,Elateridae,Coleoptera,Insecta,Arthropoda,Animalia,Genus found
+Limnophora triangula,0,150730,150025,118831,99208,82696,202423,,Limnophora,Muscidae,Diptera,Insecta,Arthropoda,Animalia,Genus found
+Microchrysa polita,130344,130339,130150,118831,99208,82696,202423,polita,Microchrysa,Stratiomyidae,Diptera,Insecta,Arthropoda,Animalia,Species found
+Pegoplata infirma,149046,149027,148685,118831,99208,82696,202423,infirma,Pegoplata,Anthomyiidae,Diptera,Insecta,Arthropoda,Animalia,Species found
+Ichneumonidae,0,0,153360,152741,99208,82696,202423,,,Ichneumonidae,Hymenoptera,Insecta,Arthropoda,Animalia,Family found
+Platycheirus scutatus,139831,139712,139621,118831,99208,82696,202423,scutatus,Platycheirus,Syrphidae,Diptera,Insecta,Arthropoda,Animalia,Species found
+Scaptomyza pallida,146638,146618,146185,118831,99208,82696,202423,pallida,Scaptomyza,Drosophilidae,Diptera,Insecta,Arthropoda,Animalia,Species found
+Sepsis orthocnemis,0,145013,144975,118831,99208,82696,202423,,Sepsis,Sepsidae,Diptera,Insecta,Arthropoda,Animalia,Genus found
+Sepsis violacea,145035,145013,144975,118831,99208,82696,202423,vicaria,Sepsis,Sepsidae,Diptera,Insecta,Arthropoda,Animalia,Species found
+Ichneumonidae,0,0,153360,152741,99208,82696,202423,,,Ichneumonidae,Hymenoptera,Insecta,Arthropoda,Animalia,Family found
+Tiphia minuta,0,154176,154175,152741,99208,82696,202423,,Tiphia,Tiphiidae,Hymenoptera,Insecta,Arthropoda,Animalia,Genus found
+Volucella bombylans,140727,140726,139621,118831,99208,82696,202423,bombylans,Volucella,Syrphidae,Diptera,Insecta,Arthropoda,Animalia,Species found
+Asecodes congruens,0,0,0,0,0,0,0,congruens,Asecodes,Eulophidae,Hymenoptera,Insecta,Arthropoda,Animalia,Genus found
+Halticoptera sp,0,153994,153974,152741,99208,82696,202423,,Halticoptera,Pteromalidae,Hymenoptera,Insecta,Arthropoda,Animalia,Genus found
+Hexacola hexatoma,154036,154032,154028,152741,99208,82696,202423,hexatoma,Hexacola,Figitidae,Hymenoptera,Insecta,Arthropoda,Animalia,Species found
+Kleidotoma tetratoma,0,0,0,0,0,0,0,tetratoma,Kleidotoma,Figitidae,Hymenoptera,Insecta,Arthropoda,Animalia,Family found
+Metopina sp,0,139538,138921,118831,99208,82696,202423,,Metopina,Phoridae,Diptera,Insecta,Arthropoda,Animalia,Genus found
+Rhoptromeris heptoma,0,0,0,0,0,0,0,heptoma,Rhoptromeris,Figitidae,Hymenoptera,Insecta,Arthropoda,Animalia,Family found
+Rhoptromeris rufiventris,0,0,0,0,0,0,0,rufiventris,Rhoptromeris,Figitidae,Hymenoptera,Insecta,Arthropoda,Animalia,Family found
+Dolerus haematodes,0,0,0,0,0,0,0,haematodes,Dolerus,Tenthredinidae,Hymenoptera,Insecta,Arthropoda,Animalia,Family found
+Epuraea melanocephala,0,835489,114290,109216,99208,82696,202423,,Epuraea,Nitidulidae,Coleoptera,Insecta,Arthropoda,Animalia,Genus found
+Andrena minutula,752658,154362,154361,152741,99208,82696,202423,minutula,Andrena,Andrenidae,Hymenoptera,Insecta,Arthropoda,Animalia,Species found
+Anthomyia liturata,149204,149201,148685,118831,99208,82696,202423,liturata,Anthomyia,Anthomyiidae,Diptera,Insecta,Arthropoda,Animalia,Species found
+Anthonomus rubi,0,187836,114666,109216,99208,82696,202423,,Anthonomus,Curculionidae,Coleoptera,Insecta,Arthropoda,Animalia,Genus found
+Azelia cilipes,150055,150053,150025,118831,99208,82696,202423,cilipes,Azelia,Muscidae,Diptera,Insecta,Arthropoda,Animalia,Species found
+Bellardia pandia,0,33492,34267,31632,18063,846496,202422,pandia,Bellardia,Calliphoridae,Diptera,Insecta,Arthropoda,Animalia,Species found
+Botanophila fugax,149317,149260,148685,118831,99208,82696,202423,fugax,Botanophila,Anthomyiidae,Diptera,Insecta,Arthropoda,Animalia,Species found
+Bruchus rufimanus,721393,114507,114509,109216,99208,82696,202423,rufimanus,Bruchus,Chrysomelidae,Coleoptera,Insecta,Arthropoda,Animalia,Species found
+Chrysotoxum bicinctum,0,139928,139621,118831,99208,82696,202423,,Chrysotoxum,Syrphidae,Diptera,Insecta,Arthropoda,Animalia,Genus found
+Dolichopus festivus,0,137953,136824,118831,99208,82696,202423,,Dolichopus,Dolichopodidae,Diptera,Insecta,Arthropoda,Animalia,Genus found
+Eristalis tenax,140969,140904,139621,118831,99208,82696,202423,tenax,Eristalis,Syrphidae,Diptera,Insecta,Arthropoda,Animalia,Species found
+Eupeodes corollae,0,140026,139621,118831,99208,82696,202423,,Eupeodes,Syrphidae,Diptera,Insecta,Arthropoda,Animalia,Genus found
+Gastrophysa viridular,0,719650,114509,109216,99208,82696,202423,,Gastrophysa,Chrysomelidae,Coleoptera,Insecta,Arthropoda,Animalia,Genus found
+Helophilus trivittatus,0,140779,139621,118831,99208,82696,202423,,Helophilus,Syrphidae,Diptera,Insecta,Arthropoda,Animalia,Genus found
+Hydrellia griseola,147144,147117,146893,118831,99208,82696,202423,griseola,Hydrellia,Ephydridae,Diptera,Insecta,Arthropoda,Animalia,Species found
+Hylaeus communis,754865,154346,154345,152741,99208,82696,202423,communis,Hylaeus,Colletidae,Hymenoptera,Insecta,Arthropoda,Animalia,Species found
+Oedemera lurida,0,0,0,0,0,0,0,lurida,Oedemera,Oedemeridae,Coleoptera,Insecta,Arthropoda,Animalia,Genus found
+Olibrus aeneus,0,0,0,0,0,0,0,aeneus,Olibrus,Phalacridae,Coleoptera,Insecta,Arthropoda,Animalia,Genus found
+Omphalapion hookerorum,0,0,0,0,0,0,0,hookerorum,Omphalapion,Brentidae,Coleoptera,Insecta,Arthropoda,Animalia,Genus found
+Opomyza germinationis,0,0,0,0,0,0,0,germinationis,Opomyza,Opomyzidae,Diptera,Insecta,Arthropoda,Animalia,Genus found
+Phasia obesa,0,650850,152643,118831,99208,82696,202423,,Phasia,Tachinidae,Diptera,Insecta,Arthropoda,Animalia,Genus found
+Platycheirus manicatus,139786,139712,139621,118831,99208,82696,202423,manicatus,Platycheirus,Syrphidae,Diptera,Insecta,Arthropoda,Animalia,Species found
+Platycheirus sp,0,139712,139621,118831,99208,82696,202423,,Platycheirus,Syrphidae,Diptera,Insecta,Arthropoda,Animalia,Genus found
+Pollenia amentaria,0,151642,151495,118831,99208,82696,202423,,Pollenia,Calliphoridae,Diptera,Insecta,Arthropoda,Animalia,Genus found
+Pollenia pediculata,0,151642,151495,118831,99208,82696,202423,,Pollenia,Calliphoridae,Diptera,Insecta,Arthropoda,Animalia,Genus found
+Pollenia rudis,151647,151642,151495,118831,99208,82696,202423,rudis,Pollenia,Calliphoridae,Diptera,Insecta,Arthropoda,Animalia,Species found
+Scaptomyza flava,146624,146618,146185,118831,99208,82696,202423,flava,Scaptomyza,Drosophilidae,Diptera,Insecta,Arthropoda,Animalia,Species found
+Sphaerophoria menthastri,0,140247,139621,118831,99208,82696,202423,,Sphaerophoria,Syrphidae,Diptera,Insecta,Arthropoda,Animalia,Genus found
+Sphaerophoria scripta,140267,140247,139621,118831,99208,82696,202423,scripta,Sphaerophoria,Syrphidae,Diptera,Insecta,Arthropoda,Animalia,Species found
+Stenodiplosis sp,0,0,0,0,0,0,0,,Stenodiplosis,Cecidomyiidae,Diptera,Insecta,Arthropoda,Animalia,Species found
+Thaumatomyia glabra,148222,148210,147644,118831,99208,82696,202423,glabra,Thaumatomyia,Chloropidae,Diptera,Insecta,Arthropoda,Animalia,Species found
+Cecidomyiidae sp,0,0,122975,118831,99208,82696,202423,,,Cecidomyiidae,Diptera,Insecta,Arthropoda,Animalia,Family found
+Cephus pygmaeus,0,152856,152855,152741,99208,82696,202423,,Cephus,Cephidae,Hymenoptera,Insecta,Arthropoda,Animalia,Genus found
+Ceraphron trissacantha,610965,610675,154066,152741,99208,82696,202423,trissacantha,Ceraphron,Ceraphronidae,Hymenoptera,Insecta,Arthropoda,Animalia,Species found
+Cheilosia albitarsis,0,140418,139621,118831,99208,82696,202423,,Cheilosia,Syrphidae,Diptera,Insecta,Arthropoda,Animalia,Genus found
+Chorebus sp nov,0,152894,152867,152741,99208,82696,202423,,Chorebus,Braconidae,Hymenoptera,Insecta,Arthropoda,Animalia,Genus found
+Chromatomyia nigra,0,143843,143384,118831,99208,82696,202423,,Chromatomyia,Agromyzidae,Diptera,Insecta,Arthropoda,Animalia,Genus found
+Chrysotus sp,0,137325,136824,118831,99208,82696,202423,,Chrysotus,Dolichopodidae,Diptera,Insecta,Arthropoda,Animalia,Genus found
+Demetrias atricapillus,0,0,0,0,0,0,0,atricapillus,Demetrias,Carabidae,Coleoptera,Insecta,Arthropoda,Animalia,Genus found
+Desmometopa sp,0,144520,144487,118831,99208,82696,202423,,Desmometopa,Milichiidae,Diptera,Insecta,Arthropoda,Animalia,Genus found
+Formicidae B,0,0,154193,152741,99208,82696,202423,,,Formicidae,Hymenoptera,Insecta,Arthropoda,Animalia,Family found
+Geomyza tripunctata,0,0,0,0,0,0,0,tripunctata,Geomyza,Opomyzidae,Diptera,Insecta,Arthropoda,Animalia,Genus found
+Hydrellia maura,0,147117,146893,118831,99208,82696,202423,,Hydrellia,Ephydridae,Diptera,Insecta,Arthropoda,Animalia,Genus found
+Hylaeus hyalinatus,655732,154346,154345,152741,99208,82696,202423,hyalinatus,Hylaeus,Colletidae,Hymenoptera,Insecta,Arthropoda,Animalia,Species found
+Hylemya urbica/variata,0,149224,148685,118831,99208,82696,202423,,Hylemya,Anthomyiidae,Diptera,Insecta,Arthropoda,Animalia,Genus found
+Hylemya variata,0,149224,148685,118831,99208,82696,202423,,Hylemya,Anthomyiidae,Diptera,Insecta,Arthropoda,Animalia,Genus found
+Limnia unguicornis,0,144848,144653,118831,99208,82696,202423,,Limnia,Sciomyzidae,Diptera,Insecta,Arthropoda,Animalia,Genus found
+Lonchoptera lutea,0,138793,138792,118831,99208,82696,202423,,Lonchoptera,Lonchopteridae,Diptera,Insecta,Arthropoda,Animalia,Genus found
+Lotophila atra,145849,145848,145784,118831,99208,82696,202423,atra,Lotophila,Sphaeroceridae,Diptera,Insecta,Arthropoda,Animalia,Species found
+Megaselia sp,0,139191,138921,118831,99208,82696,202423,,Megaselia,Phoridae,Diptera,Insecta,Arthropoda,Animalia,Genus found
+Melangyna sp,0,140100,139621,118831,99208,82696,202423,,Melangyna,Syrphidae,Diptera,Insecta,Arthropoda,Animalia,Genus found
+Melanostoma sp,0,139697,139621,118831,99208,82696,202423,,Melanostoma,Syrphidae,Diptera,Insecta,Arthropoda,Animalia,Genus found
+Micropterix calthella,0,0,0,0,0,0,0,calthella,Micropterix,Micropterigidae,Lepidoptera,Insecta,Arthropoda,Animalia,Species found
+Opomyza petrei,0,0,0,0,0,0,0,petrei,Opomyza,Opomyzidae,Diptera,Insecta,Arthropoda,Animalia,Genus found
+Oscinella hortensis,0,147947,147644,118831,99208,82696,202423,,Oscinella,Chloropidae,Diptera,Insecta,Arthropoda,Animalia,Genus found
+Oscinella nigerrima,0,147947,147644,118831,99208,82696,202423,,Oscinella,Chloropidae,Diptera,Insecta,Arthropoda,Animalia,Genus found
+Phytomyza cineracea,144087,144069,143384,118831,99208,82696,202423,nigritula,Napomyza,Agromyzidae,Diptera,Insecta,Arthropoda,Animalia,Species found
+Phytomyza notata,0,144200,143384,118831,99208,82696,202423,,Phytomyza,Agromyzidae,Diptera,Insecta,Arthropoda,Animalia,Genus found
+Platycheirus clypeatus,139730,139712,139621,118831,99208,82696,202423,clypeatus,Platycheirus,Syrphidae,Diptera,Insecta,Arthropoda,Animalia,Species found
+Psalinae sp,0,0,0,0,0,0,0,,,Anisolabididae,Dermaptera,Insecta,Arthropoda,Animalia,Genus found
+Rhagio notatus,0,130828,130742,118831,99208,82696,202423,,Rhagio,Rhagionidae,Diptera,Insecta,Arthropoda,Animalia,Genus found
+Saltella sphondylii,144984,144983,144975,118831,99208,82696,202423,sphondylii,Saltella,Sepsidae,Diptera,Insecta,Arthropoda,Animalia,Species found
+Sepsis cynipsea or neocynipsea,0,145013,144975,118831,99208,82696,202423,,Sepsis,Sepsidae,Diptera,Insecta,Arthropoda,Animalia,Genus found
+Stenomalina sp,0,0,0,0,0,0,0,,Stenomalina,Pteromalidae,Hymenoptera,Insecta,Arthropoda,Animalia,Family found
+Triphleba sp,0,139070,138921,118831,99208,82696,202423,,Triphleba,Phoridae,Diptera,Insecta,Arthropoda,Animalia,Genus found
+Tytthaspis sedecimpunctata,0,0,0,0,0,0,0,sedecimpunctata,Tytthaspis,Coccinellidae,Coleoptera,Insecta,Arthropoda,Animalia,Genus found
+Byturus tomentosus,0,114374,114373,109216,99208,82696,202423,,Byturus,Byturidae,Coleoptera,Insecta,Arthropoda,Animalia,Genus found
+Baccha elongate,0,139687,139621,118831,99208,82696,202423,,Baccha,Syrphidae,Diptera,Insecta,Arthropoda,Animalia,Genus found
+Bombus hortorum,714923,154397,154394,152741,99208,82696,202423,hortorum,Bombus,Apidae,Hymenoptera,Insecta,Arthropoda,Animalia,Species found
+Brachypterus urticae,708422,708186,678344,109216,99208,82696,202423,urticae,Brachypterus,Brachypteridae,Coleoptera,Insecta,Arthropoda,Animalia,Species found
+Coccinella septempunctata,114347,114346,114329,109216,99208,82696,202423,septempunctata,Coccinella,Coccinellidae,Coleoptera,Insecta,Arthropoda,Animalia,Species found
+Crossopalpus sp,0,136540,136392,118831,99208,82696,202423,,Crossopalpus,Hybotidae,Diptera,Insecta,Arthropoda,Animalia,Genus found
+Ichneumonidae,0,0,153360,152741,99208,82696,202423,,,Ichneumonidae,Hymenoptera,Insecta,Arthropoda,Animalia,Family found
+Malthodes minimus,0,834313,113837,109216,99208,82696,202423,,Malthodes,Cantharidae,Coleoptera,Insecta,Arthropoda,Animalia,Genus found
+Melanostoma scalare,0,139697,139621,118831,99208,82696,202423,,Melanostoma,Syrphidae,Diptera,Insecta,Arthropoda,Animalia,Genus found
+Platycheirus peltatus,0,139712,139621,118831,99208,82696,202423,,Platycheirus,Syrphidae,Diptera,Insecta,Arthropoda,Animalia,Genus found
+Sepsis flavimana,145019,145013,144975,118831,99208,82696,202423,flavimana,Sepsis,Sepsidae,Diptera,Insecta,Arthropoda,Animalia,Species found
+Trybliographa erythrocera,0,0,0,0,0,0,0,erythrocera,Trybliographa,Figitidae,Hymenoptera,Insecta,Arthropoda,Animalia,Species found
+Calliphora vomitoria,151559,151541,151495,118831,99208,82696,202423,vomitoria,Calliphora,Calliphoridae,Diptera,Insecta,Arthropoda,Animalia,Species found
+Herina longistylata,0,0,0,0,0,0,0,longistylata,Herina,Otitidae,Diptera,Insecta,Arthropoda,Animalia,Genus found
+Lucilia richardsi,0,151596,151495,118831,99208,82696,202423,,Lucilia,Calliphoridae,Diptera,Insecta,Arthropoda,Animalia,Genus found
+Psocoptera sp,0,0,0,0,0,0,0,,,,Psocoptera,Insecta,Arthropoda,Animalia,The name does not match Species nor Genus nor Family in the database
+Sicus ferrugineus,0,0,0,0,0,0,0,ferrugineus,Sicus,Conopidae,Diptera,Insecta,Arthropoda,Animalia,Genus found
+Sphaerophoria rueppellii,0,140247,139621,118831,99208,82696,202423,,Sphaerophoria,Syrphidae,Diptera,Insecta,Arthropoda,Animalia,Genus found
+Bicellaria varia,0,136495,136392,118831,99208,82696,202423,,Bicellaria,Hybotidae,Diptera,Insecta,Arthropoda,Animalia,Genus found
+Ophiomyia sp,0,143564,143384,118831,99208,82696,202423,,Ophiomyia,Agromyzidae,Diptera,Insecta,Arthropoda,Animalia,Genus found
+Pipiza noctiluca,0,140372,139621,118831,99208,82696,202423,,Pipiza,Syrphidae,Diptera,Insecta,Arthropoda,Animalia,Genus found
+Centrorhynchus obstrictus,0,197471,64351,197470,196823,64238,202423,,Centrorhynchus,Centrorhynchidae,Polymorphida,Palaeacanthocephala,Acanthocephala,Animalia,Genus found
+Cetema elongata,0,148029,147644,118831,99208,82696,202423,,Cetema,Chloropidae,Diptera,Insecta,Arthropoda,Animalia,Genus found
+Diospilus capito,0,0,0,0,0,0,0,capito,Diospilus,Braconidae,Hymenoptera,Insecta,Arthropoda,Animalia,Genus found
+Phradis morionellus,0,0,0,0,0,0,0,morionellus,Phradis,Ichneumonidae,Hymenoptera,Insecta,Arthropoda,Animalia,Genus found
+Empis nuntia,0,135943,135830,118831,99208,82696,202423,,Empis,Empididae,Diptera,Insecta,Arthropoda,Animalia,Genus found
+Cheilosia pagana,140532,140418,139621,118831,99208,82696,202423,pagana,Cheilosia,Syrphidae,Diptera,Insecta,Arthropoda,Animalia,Species found
+Cheilosia proxima,0,140418,139621,118831,99208,82696,202423,,Cheilosia,Syrphidae,Diptera,Insecta,Arthropoda,Animalia,Genus found
+Cheilosia proxima D,0,140418,139621,118831,99208,82696,202423,,Cheilosia,Syrphidae,Diptera,Insecta,Arthropoda,Animalia,Genus found
+Coenosia tigrina,151229,151115,150025,118831,99208,82696,202423,tigrina,Coenosia,Muscidae,Diptera,Insecta,Arthropoda,Animalia,Species found
+Copromyza similes,0,145823,145784,118831,99208,82696,202423,,Copromyza,Sphaeroceridae,Diptera,Insecta,Arthropoda,Animalia,Genus found
+Ectemnius cephalotes,0,768357,709291,152741,99208,82696,202423,,Ectemnius,Crabronidae,Hymenoptera,Insecta,Arthropoda,Animalia,Genus found
+Musca autumnalis,150250,150249,150025,118831,99208,82696,202423,autumnalis,Musca,Muscidae,Diptera,Insecta,Arthropoda,Animalia,Species found
+Plagiotrochus sp,0,705601,154031,152741,99208,82696,202423,,Plagiotrochus,Cynipidae,Hymenoptera,Insecta,Arthropoda,Animalia,Genus found
+Sussaba cognata,0,0,0,0,0,0,0,cognata,Sussaba,Ichneumonidae,Hymenoptera,Insecta,Arthropoda,Animalia,Genus found
+Anthomyia pluvialis,149217,149201,148685,118831,99208,82696,202423,pluvialis,Anthomyia,Anthomyiidae,Diptera,Insecta,Arthropoda,Animalia,Species found
+Aprostocetus sp,0,153917,153770,152741,99208,82696,202423,,Aprostocetus,Eulophidae,Hymenoptera,Insecta,Arthropoda,Animalia,Genus found
+Bombus pratorum,714984,154397,154394,152741,99208,82696,202423,pratorum,Bombus,Apidae,Hymenoptera,Insecta,Arthropoda,Animalia,Species found
+Bombus vestalis,715039,154397,154394,152741,99208,82696,202423,vestalis,Bombus,Apidae,Hymenoptera,Insecta,Arthropoda,Animalia,Species found
+Eupeodes luniger,140060,140026,139621,118831,99208,82696,202423,luniger,Eupeodes,Syrphidae,Diptera,Insecta,Arthropoda,Animalia,Species found
+Norellisoma spinimanum,0,148563,678096,118831,99208,82696,202423,,Norellisoma,Scathophagidae,Diptera,Insecta,Arthropoda,Animalia,Genus found
+Phyllobius virideaeris,0,616992,114666,109216,99208,82696,202423,,Phyllobius,Curculionidae,Coleoptera,Insecta,Arthropoda,Animalia,Genus found
+Sarcophaga carnaria,0,152062,151815,118831,99208,82696,202423,,Sarcophaga,Sarcophagidae,Diptera,Insecta,Arthropoda,Animalia,Genus found
+Sitona puncticollis,0,188073,114666,109216,99208,82696,202423,,Sitona,Curculionidae,Coleoptera,Insecta,Arthropoda,Animalia,Genus found
+Syrphus ribesii,140289,140276,139621,118831,99208,82696,202423,ribesii,Syrphus,Syrphidae,Diptera,Insecta,Arthropoda,Animalia,Species found
+Longitarsus sp,0,719704,114509,109216,99208,82696,202423,,Longitarsus,Chrysomelidae,Coleoptera,Insecta,Arthropoda,Animalia,Genus found
+Pieris rapae,188541,188536,117267,117232,99208,82696,202423,rapae,Pieris,Pieridae,Lepidoptera,Insecta,Arthropoda,Animalia,Species found
+Inachis io,0,0,0,0,0,0,0,io,Inachis,Nymphalidae,Lepidoptera,Insecta,Arthropoda,Animalia,Species found
+Aglais urticae,778267,777606,117276,117232,99208,82696,202423,urticae,Aglais,Nymphalidae,Lepidoptera,Insecta,Arthropoda,Animalia,Species found
+Aphantopus hyperantus,0,0,0,0,0,0,0,hyperantus,Aphantopus,Satyridae,Lepidoptera,Insecta,Arthropoda,Animalia,Species found
+Maniola jurtina,0,0,0,0,0,0,0,jurtina,Maniola,Nymphalidae,Lepidoptera,Insecta,Arthropoda,Animalia,Species found
+Ochlodes sylvanus,0,706436,117278,117232,99208,82696,202423,,Ochlodes,Hesperiidae,Lepidoptera,Insecta,Arthropoda,Animalia,Genus found
+Pieris brassicae,778274,188536,117267,117232,99208,82696,202423,brassicae,Pieris,Pieridae,Lepidoptera,Insecta,Arthropoda,Animalia,Species found
+Pieris napi,188538,188536,117267,117232,99208,82696,202423,napi,Pieris,Pieridae,Lepidoptera,Insecta,Arthropoda,Animalia,Species found
+Polygonia c-album,0,188587,117276,117232,99208,82696,202423,,Polygonia,Nymphalidae,Lepidoptera,Insecta,Arthropoda,Animalia,Genus found
+Polyommatus icarus,0,0,0,0,0,0,0,icarus,Polyommatus,Lycaenidae,Lepidoptera,Insecta,Arthropoda,Animalia,Species found
+Pyronia tithonus,0,0,0,0,0,0,0,tithonus,Pyronia,Nymphalidae,Lepidoptera,Insecta,Arthropoda,Animalia,Species found
+Thymelicus sylvestris,0,188608,117278,117232,99208,82696,202423,,Thymelicus,Hesperiidae,Lepidoptera,Insecta,Arthropoda,Animalia,Genus found
+Vanessa atalanta,188599,188598,117276,117232,99208,82696,202423,atalanta,Vanessa,Nymphalidae,Lepidoptera,Insecta,Arthropoda,Animalia,Species found
+Lycaena phlaeas,777788,188507,117236,117232,99208,82696,202423,phlaeas,Lycaena,Lycaenidae,Lepidoptera,Insecta,Arthropoda,Animalia,Species found
+Pararge aegeria,0,0,0,0,0,0,0,aegeria,Pararge,Nymphalidae,Lepidoptera,Insecta,Arthropoda,Animalia,Species found
+Vanessa cardui,188601,188598,117276,117232,99208,82696,202423,cardui,Vanessa,Nymphalidae,Lepidoptera,Insecta,Arthropoda,Animalia,Species found
+Sitobion avenae,200674,200673,109191,103359,99208,82696,202423,avenae,Sitobion,Aphididae,Hemiptera,Insecta,Arthropoda,Animalia,Species found
+Myzus persicae,200635,200633,109191,103359,99208,82696,202423,persicae,Myzus,Aphididae,Hemiptera,Insecta,Arthropoda,Animalia,Species found
+Metopolophium dirhodum,0,0,0,0,0,0,0,dirhodum,Metopolophium,Aphididae,Hemiptera,Insecta,Arthropoda,Animalia,Genus found
+Capitophorus elaeagnii,0,200590,109191,103359,99208,82696,202423,,Capitophorus,Aphididae,Hemiptera,Insecta,Arthropoda,Animalia,Genus found
+Uroleucon aeneum,0,200688,109191,103359,99208,82696,202423,,Uroleucon,Aphididae,Hemiptera,Insecta,Arthropoda,Animalia,Genus found
+Uroleucon cirsii,0,200688,109191,103359,99208,82696,202423,,Uroleucon,Aphididae,Hemiptera,Insecta,Arthropoda,Animalia,Genus found
+Hyperomyzus lactucae,200616,200615,109191,103359,99208,82696,202423,lactucae,Hyperomyzus,Aphididae,Hemiptera,Insecta,Arthropoda,Animalia,Species found
+Myzocallis coryli,0,0,0,0,0,0,0,coryli,Myzocallis,Aphididae,Hemiptera,Insecta,Arthropoda,Animalia,Genus found
+Dysaphis species 1,0,200606,109191,103359,99208,82696,202423,,Dysaphis,Aphididae,Hemiptera,Insecta,Arthropoda,Animalia,Genus found
+Aphis galiiscabri,0,200573,109191,103359,99208,82696,202423,,Aphis,Aphididae,Hemiptera,Insecta,Arthropoda,Animalia,Genus found
+Cavariella aegopodii,200593,200592,109191,103359,99208,82696,202423,aegopodii,Cavariella,Aphididae,Hemiptera,Insecta,Arthropoda,Animalia,Species found
+Aphid species 1,0,0,0,0,0,0,0,,,,Hemiptera,Insecta,Arthropoda,Animalia,Genus found
+Brachycaudus helichrysii,0,200586,109191,103359,99208,82696,202423,,Brachycaudus,Aphididae,Hemiptera,Insecta,Arthropoda,Animalia,Genus found
+Sipha maydis,0,200671,109191,103359,99208,82696,202423,,Sipha,Aphididae,Hemiptera,Insecta,Arthropoda,Animalia,Genus found
+Phorodon humuli,0,0,0,0,0,0,0,humuli,Phorodon,Aphididae,Hemiptera,Insecta,Arthropoda,Animalia,Genus found
+Tubaphis ranunculina,0,0,0,0,0,0,0,ranunculina,Tubaphis,Aphididae,Hemiptera,Insecta,Arthropoda,Animalia,Genus found
+Sitobion fragariae,0,200673,109191,103359,99208,82696,202423,fragariae,Sitobion,Aphididae,Hemiptera,Insecta,Arthropoda,Animalia,Genus found
+Macrosiphum funestum,0,200627,109191,103359,99208,82696,202423,funestum,Macrosiphum,Aphididae,Hemiptera,Insecta,Arthropoda,Animalia,Genus found
+Aphis rumicis,0,200573,109191,103359,99208,82696,202423,rumicis,Aphis,Aphididae,Hemiptera,Insecta,Arthropoda,Animalia,Genus found
+Lipaphys erysimi,0,0,0,0,0,0,0,erysimi,Liapaphys,Aphididae,Hemiptera,Insecta,Arthropoda,Animalia,Genus found
+Uroleucon sonchi,200690,200688,109191,103359,99208,82696,202423,sonchi,Uroleucon,Aphididae,Hemiptera,Insecta,Arthropoda,Animalia,Species found
+Cryptomyzus korschelti,0,0,0,0,0,0,0,korschelti,Cryptomyzus,Aphididae,Hemiptera,Insecta,Arthropoda,Animalia,Genus found
+Acyrthosiphon pisum,200572,200570,109191,103359,99208,82696,202423,pisum,Acyrthosiphon,Aphididae,Hemiptera,Insecta,Arthropoda,Animalia,Species found
+Therioaphis trifoli,0,200678,109191,103359,99208,82696,202423,,Therioaphis,Aphididae,Hemiptera,Insecta,Arthropoda,Animalia,Genus found
+Aphis urticae,0,200573,109191,103359,99208,82696,202423,uricae,Aphis,Aphididae,Hemiptera,Insecta,Arthropoda,Animalia,Genus found
+Microlophium carnosum,0,0,0,0,0,0,0,carnosum,Microlophium,Aphididae,Hemiptera,Insecta,Arthropoda,Animalia,Species found
+Nasonovia ribisnigri,200637,200636,109191,103359,99208,82696,202423,ribisnigri,Nasonovia,Aphididae,Hemiptera,Insecta,Arthropoda,Animalia,Species found
+Asaphes suspensus,0,0,0,0,0,0,0,suspensus,Asaphes,Pteromalidae,Hymenoptera,Insecta,Arthropoda,Animalia,Genus found
+Terellia ruficauda,672018,669084,142604,118831,99208,82696,202423,ruficauda,Terellia,Tephritidae,Diptera,Insecta,Arthropoda,Animalia,Species found
+Urophora stylata,142830,142806,142604,118831,99208,82696,202423,stylata,Urophora,Tephritidae,Diptera,Insecta,Arthropoda,Animalia,Species found
+Curtonotus aulicus,0,0,0,0,0,0,0,aulicus,Curtonotus,Carabidae,Coleoptera,Insecta,Arthropoda,Animalia,The name does not match Species nor Genus nor Family in the database
+Rhinocyllus conicus,618891,617026,114666,109216,99208,82696,202423,conicus,Rhinocyllus,Curculionidae,Coleoptera,Insecta,Arthropoda,Animalia,Species found
+Terellia longicauda,672802,669084,142604,118831,99208,82696,202423,longicauda,Terellia,Tephritidae,Diptera,Insecta,Arthropoda,Animalia,Species found
+Terellia serratulae,672580,669084,142604,118831,99208,82696,202423,serratulae,Terellia,Tephritidae,Diptera,Insecta,Arthropoda,Animalia,Species found
+Blastodacna hellerella,0,0,0,0,0,0,0,hellerella,Blastodacna,Elachistidae,Lepidoptera,Insecta,Arthropoda,Animalia,The name does not match Species nor Genus nor Family in the database
+Protapion nigritarse,0,0,0,0,0,0,0,nigritarse,Protapion,Coleoptera,Brentidae,Insecta,Arthropoda,Animalia,The name does not match Species nor Genus nor Family in the database
+Bruchidius varius,0,719790,114509,109216,99208,82696,202423,,Bruchidius,Chrysomelidae,Coleoptera,Insecta,Arthropoda,Animalia,Genus found
+Bruchophagus gibbus,0,154009,154008,152741,99208,82696,202423,,Bruchophagus,Eurytomidae,Hymenoptera,Insecta,Arthropoda,Animalia,Genus found
+Protapion apricans,0,0,0,0,0,0,0,apricans,Protapion,Coleoptera,Brentidae,Insecta,Arthropoda,Animalia,The name does not match Species nor Genus nor Family in the database
+Protapion assimile,0,0,0,0,0,0,0,assimile,Protapion,Coleoptera,Brentidae,Insecta,Arthropoda,Animalia,The name does not match Species nor Genus nor Family in the database
+Protapion fulvipes,0,0,0,0,0,0,0,fulvipes,Protapion,Coleoptera,Brentidae,Insecta,Arthropoda,Animalia,The name does not match Species nor Genus nor Family in the database
+Protapion trifolii,0,0,0,0,0,0,0,trifolii,Protapion,Coleoptera,Brentidae,Insecta,Arthropoda,Animalia,The name does not match Species nor Genus nor Family in the database
+Protapion varipes,0,0,0,0,0,0,0,varipes,Protapion,Coleoptera,Brentidae,Insecta,Arthropoda,Animalia,The name does not match Species nor Genus nor Family in the database
+Sitona lineatus,619043,188073,114666,109216,99208,82696,202423,lineatus,Sitona,Curculionidae,Coleoptera,Insecta,Arthropoda,Animalia,Species found
+Sitona sulcifrons,0,188073,114666,109216,99208,82696,202423,,Sitona,Curculionidae,Coleoptera,Insecta,Arthropoda,Animalia,Genus found
+Oxystoma pomonae,0,0,0,0,0,0,0,pomonae,Oxystoma,Apionidae,Coleoptera,Insecta,Arthropoda,Animalia,The name does not match Species nor Genus nor Family in the database
+Corvus frugilegus,179738,179724,179665,178265,174371,158852,202423,frugilegus,Corvus,Corvidae,Passeriformes,Aves,Chordata,Animalia,Species found
+Alauda arvensis,178398,178397,178396,178265,174371,158852,202423,arvensis,Alauda,Alaudidae,Passeriformes,Aves,Chordata,Animalia,Species found
+Alectoris rufa,175913,175907,175861,175693,174371,158852,202423,rufa,Alectoris,Phasianidae,Galliformes,Aves,Chordata,Animalia,Species found
+Carduelis chloris,559044,179225,179122,178265,174371,158852,202423,chloris,Carduelis,Fringillidae,Passeriformes,Aves,Chordata,Animalia,Species found
+Columba palumbus,177103,177062,177061,177038,174371,158852,202423,palumbus,Columba,Columbidae,Columbiformes,Aves,Chordata,Animalia,Species found
+Emberiza citrinella,179537,179536,178838,178265,174371,158852,202423,citrinella,Emberiza,Emberizidae,Passeriformes,Aves,Chordata,Animalia,Species found
+Passer domesticus,179628,179627,553446,178265,174371,158852,202423,domesticus,Passer,Passeridae,Passeriformes,Aves,Chordata,Animalia,Species found
+Carduelis cannabina,559043,179225,179122,178265,174371,158852,202423,cannabina,Carduelis,Fringillidae,Passeriformes,Aves,Chordata,Animalia,Species found
+Carduelis carduelis,179226,179225,179122,178265,174371,158852,202423,carduelis,Carduelis,Fringillidae,Passeriformes,Aves,Chordata,Animalia,Species found
+Fringilla coelebs,179168,179166,179122,178265,174371,158852,202423,coelebs,Fringilla,Fringillidae,Passeriformes,Aves,Chordata,Animalia,Species found
+Streptopelia decaocto,177139,177133,177061,177038,174371,158852,202423,decaocto,Streptopelia,Columbidae,Columbiformes,Aves,Chordata,Animalia,Species found
+Corvus monedula,916629,915794,179665,178265,174371,158852,202423,monedula,Coloeus,Corvidae,Passeriformes,Aves,Chordata,Animalia,Species found
+Apodemus flavicollis,585132,584983,180360,180130,179913,158852,202423,flavicollis,Apodemus,Muridae,Rodentia,Mammalia,Chordata,Animalia,Species found
+Apodemus sylvaticus,585143,584983,180360,180130,179913,158852,202423,sylvaticus,Apodemus,Muridae,Rodentia,Mammalia,Chordata,Animalia,Species found
+Micromys minutus,585369,585050,180360,180130,179913,158852,202423,minutus,Micromys,Muridae,Rodentia,Mammalia,Chordata,Animalia,Species found
+Clethrionomys glareolus,632826,180292,180360,180130,179913,158852,202423,glareolus,Clethrionomys,Muridae,Rodentia,Mammalia,Chordata,Animalia,Species found
+Aphidius ervi,0,0,0,0,0,0,0,ervi,Aphidius,Braconidae,Hymenoptera,Insecta,Arthropoda,Animalia,Genus found
+Aphidius rhopalosiphi?,0,0,0,0,0,0,0,rhopalosiphi,Aphidius,Braconidae,Hymenoptera,Insecta,Arthropoda,Animalia,Genus found
+Praon dorsale?,0,0,0,0,0,0,0,dorsale,Praon,Braconidae,Hymenoptera,Insecta,Arthropoda,Animalia,Genus found
+Praon exoletum?,0,0,0,0,0,0,0,exoletum,Praon,Braconidae,Hymenoptera,Insecta,Arthropoda,Animalia,Genus found
+Aphidius matricariae,0,0,0,0,0,0,0,matricariae,Aphidius,Braconidae,Hymenoptera,Insecta,Arthropoda,Animalia,Genus found
+Trioxys B,0,0,0,0,0,0,0,,Trioxys,Braconidae,Hymenoptera,Insecta,Arthropoda,Animalia,Genus found
+Aphidius funebris,0,0,0,0,0,0,0,funebris,Aphidius,Braconidae,Hymenoptera,Insecta,Arthropoda,Animalia,Genus found
+Aphidius picipes?,0,0,0,0,0,0,0,picipes,Aphidius,Braconidae,Hymenoptera,Insecta,Arthropoda,Animalia,Genus found
+Ephedrus plagiator,0,0,0,0,0,0,0,plagiator,Ephedrus,Braconidae,Hymenoptera,Insecta,Arthropoda,Animalia,Genus found
+Praon volucre,0,0,0,0,0,0,0,volucre,Praon,Braconidae,Hymenoptera,Insecta,Arthropoda,Animalia,Genus found
+Praon sp nr flavinode,0,0,0,0,0,0,0,,Praon,Braconidae,Hymenoptera,Insecta,Arthropoda,Animalia,Genus found
+Alloxysta victrix,0,0,0,0,0,0,0,victrix,Alloxysta,Charipidae,Hymenoptera,Insecta,Arthropoda,Animalia,The name does not match Species
+Asaphes vulgaris,0,0,0,0,0,0,0,vulgaris,Asaphes,Pteromalidae,Hymenoptera,Insecta,Arthropoda,Animalia,The name does not match Species
+Dendrocerus carpenteri,611221,610695,610669,152741,99208,82696,202423,carpenteri,Dendrocerus,Megaspilidae,Hymenoptera,Insecta,Arthropoda,Animalia,Species found
+Dendrocerus aphidum,611211,610695,610669,152741,99208,82696,202423,aphidum,Dendrocerus,Megaspilidae,Hymenoptera,Insecta,Arthropoda,Animalia,Species found
+Coruna clavata,0,0,0,0,0,0,0,clavata,Coruna,Pteromalidae,Hymenoptera,Insecta,Arthropoda,Animalia,The name does not match Species
+Pachyneuron sp,0,0,0,0,0,0,0,,Pachyneuron,Perilampidae,Hymenoptera,Insecta,Arthropoda,Animalia,The name does not match Species
+Spintherus dubius,0,0,0,0,0,0,0,dubius,Spintherus,Pteromalidae,Hymenoptera,Insecta,Arthropoda,Animalia,The name does not match Species
+Triaspis floricola,0,0,0,0,0,0,0,floricola,Triaspis,Braconidae,Hymenoptera,Insecta,Arthropoda,Animalia,The name does not match Species
+Mesopolobus incultus,0,0,0,0,0,0,0,incultus,Mesopolobus,Pteromalidae,Hymenoptera,Insecta,Arthropoda,Animalia,The name does not match Species
+Trichomalus campestris,0,0,0,0,0,0,0,campestris,Trichomalus,Pteromalidae,Hymenoptera,Insecta,Arthropoda,Animalia,The name does not match Species
+Trichomalus rufinus,0,0,0,0,0,0,0,rufinus,Trichomalus,Pteromalidae,Hymenoptera,Insecta,Arthropoda,Animalia,The name does not match Species
+Bracon immutator,0,153257,152867,152741,99208,82696,202423,,Bracon,Braconidae,Hymenoptera,Insecta,Arthropoda,Animalia,Genus found
+Bracon osculator,0,153257,152867,152741,99208,82696,202423,,Bracon,Braconidae,Hymenoptera,Insecta,Arthropoda,Animalia,Genus found
+Eurytoma sp A,0,154012,154008,152741,99208,82696,202423,,Eurytoma,Eurytomidae,Hymenoptera,Insecta,Arthropoda,Animalia,Genus found
+Eurytoma sp B,0,154012,154008,152741,99208,82696,202423,,Eurytoma,Eurytomidae,Hymenoptera,Insecta,Arthropoda,Animalia,Genus found
+Pterandrophysalis levantina,0,0,0,0,0,0,0,levantina,Pterandrophysalis,Trichogrammatidae,Hymenoptera,Insecta,Arthropoda,Animalia,Genus found
+Pteromalus sequester-group,0,0,0,0,0,0,0,,Pteromalus,Pteromalidae,Hymenoptera,Insecta,Arthropoda,Animalia,The name does not match Species
+Pteromalus beryllii,0,0,0,0,0,0,0,beryllii,Pteromalus,Pteromalidae,Hymenoptera,Insecta,Arthropoda,Animalia,The name does not match Species
+Bracon praecox,0,153257,152867,152741,99208,82696,202423,,Bracon,Braconidae,Hymenoptera,Insecta,Arthropoda,Animalia,Genus found
+Pteromalus albipennis,0,0,0,0,0,0,0,albipennis,Pteromalus,Pteromalidae,Hymenoptera,Insecta,Arthropoda,Animalia,The name does not match Species
+Crataepus marbis,0,0,0,0,0,0,0,marbis,Crataepus,Eulophidae,Hymenoptera,Insecta,Arthropoda,Animalia,The name does not match Species
+Pteromalus elevatus,0,0,0,0,0,0,0,elevatus,Pteromalus,Pteromalidae,Hymenoptera,Insecta,Arthropoda,Animalia,The name does not match Species
+Amalaraeus penicilliger,0,0,0,0,0,0,0,penicilliger,Amalaraeus,Ceratophyllidae,Siphonaptera,Insecta,Arthropoda,Animalia,The name does not match Species
+Ctenophthalmus nobilis,0,0,0,0,0,0,0,nobilis,Ctenophthalmus,Hystrichopsyllidae,Siphonaptera,Insecta,Arthropoda,Animalia,The name does not match Species
+Hystrichopsylla talpae,0,0,0,0,0,0,0,talpae,Hystrichopsylla,Hystrichopsyllidae,Siphonaptera,Insecta,Arthropoda,Animalia,The name does not match Species
+Ixodes trianguliceps,0,0,0,0,0,0,0,trianguliceps,Ixodes,Ixodidae,Ixodida,Arachnida,Arthropoda,Animalia,The name does not match Species nor Genus nor Family in the database
+Megabothris turbidus,0,0,0,0,0,0,0,turbidus,Megabothris,Ceratophyllidae,Siphonaptera,Insecta,Arthropoda,Animalia,The name does not match Species
+Nosopsyllus fasciatus,189345,189344,152740,152732,99208,82696,202423,fasciatus,Nosopsyllus,Ceratophyllidae,Siphonaptera,Insecta,Arthropoda,Animalia,Species found
+Palaeopsylla minor,0,0,0,0,0,0,0,minor,Palaeopsylla,Hystrichopsyllidae,Siphonaptera,Insecta,Arthropoda,Animalia,The name does not match Species
+Palaeopsylla soricis soricis,0,0,0,0,0,0,0,soricis,Palaeopsylla,Hystrichopsyllidae,Siphonaptera,Insecta,Arthropoda,Animalia,The name does not match Species nor Genus nor Family in the database

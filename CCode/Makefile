@@ -1,5 +1,5 @@
 COMP = gcc
-LIB = -lgsl -lgslcblas
+LIB = -lm -lgsl -lgslcblas
 OPT = -Wall -O3 -DHAVE_INLINE
 OBJECTS = main.o partition.o SearchAlgs.o
 
