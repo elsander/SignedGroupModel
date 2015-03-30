@@ -192,9 +192,9 @@ Code,Binomial,Type,input,tsn_species,tsn_genus,tsn_family,tsn_order,tsn_class,ts
 191,Helodidae,Pollinator,Helodidae,0,0,113924,109216,99208,82696,202423,,,Scirtidae,Coleoptera,Insecta,Arthropoda,Animalia,Family found
 192,Melyridae,Pollinator,Melyridae,0,0,113869,109216,99208,82696,202423,,,Melyridae,Coleoptera,Insecta,Arthropoda,Animalia,Family found
 193,Malachiidae,Pollinator,Malachiidae,0,0,113869,109216,99208,82696,202423,,,Melyridae,Coleoptera,Insecta,Arthropoda,Animalia,Family found
-194,Melilidae,Pollinator,Melilidae,0,0,0,0,0,0,0,,,Meloidae,Coleoptera,Insecta,Arthropoda,Animalia,The name does not match Species nor Genus nor Family in the database
+194,Melilidae,Pollinator,Melilidae,0,0,0,0,0,0,0,,,Meloidae,Coleoptera,Insecta,Arthropoda,Animalia,From EOL
 195,Mylabris sp,Pollinator,Mylabris sp,0,114507,114509,109216,99208,82696,202423,,Bruchus,Chrysomelidae,Coleoptera,Insecta,Arthropoda,Animalia,Genus found
-196,Melolonthidae,Pollinator,Melolonthidae,0,0,0,0,0,0,0,,,Scarabaeidae,Coleoptera,Insecta,Arthropoda,Animalia,The name does not match Species nor Genus nor Family in the database
+196,Melolonthidae,Pollinator,Melolonthidae,0,0,0,0,0,0,0,,,Scarabaeidae,Coleoptera,Insecta,Arthropoda,Animalia,From EOL
 197,Scarabaeidae,Pollinator,Scarabaeidae,0,0,114493,109216,99208,82696,202423,,,Scarabaeidae,Coleoptera,Insecta,Arthropoda,Animalia,Family found
 198,Mordellistena sp,Pollinator,Mordellistena sp,0,722960,114383,109216,99208,82696,202423,,Mordellistena,Mordellidae,Coleoptera,Insecta,Arthropoda,Animalia,Genus found
 199,Nitidulidae,Pollinator,Nitidulidae,0,0,114290,109216,99208,82696,202423,,,Nitidulidae,Coleoptera,Insecta,Arthropoda,Animalia,Family found
