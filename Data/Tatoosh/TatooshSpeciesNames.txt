@@ -1,110 +1,110 @@
-Mytilus-californianus
-Mytilus-trossulus
-Pollicipes
-Semibalanus-cariosus
-Balanus-glandula
-Hallosaccion
-Mastocarpus
-Corallina-vancouvriensis
-Endocladia
+Mytilus californianus
+Mytilus trossulus
+Pollicipes polymerus
+Semibalanus cariosus
+Balanus glandula
+Halosaccion glandiforme
+Mastocarpus (Gigartina)
+Corallina vancouvriensis
+Endocladia muricata
 Ulva
 Porphyra
-Petrocelis-Ralfsia
-Acrosiphonia
+Petrocelis Ralfsia
+Acrosiphonia (Spongomorpha) coalita
 Diatoms
-Fucus
-Microcladia
-Halichondria-Haliclona
-Hedophyllum
+Fucus distichus
+Microcladia borealis
+Halichondria Haliclona
+Sacharina (Hedophyllum) sessilis
 Anthopleura
-Iridea
-Balanus-nubilus
-Chthamalus
-Leathesia
+Iridaea
+Balanus nubilus
+Chthamalus dalli
+Leathesia marine (difformis)
 Polysiphonia
-Ugly-Clam
+Entodesma saxicola
 Neorhodomela
 Prionitis
 Laminaria
 Alaria
-Costaria
-Petalonia
-Callithamnion
-Scytosiphon
-Serpulid
-Cumagloia-andersonii
-Articulated-corralines
+Costaria costata
+Petalonia fasciata
+Callithamnion pikeanum
+Scytosiphon lomentaria
+ Serpula vermicularis
+Cumagloia andersonii
+Articulated corralines
 Phyllospadix
-Eudistyla
-Postelsia
-Analipas-japonicus
+Eudistylia
+Postelsia palmaeformis
+Analipus japonicus
 Enteromorpha
-Nucella-ostrina
-Nucella-canalicalata
-Nucella-lamellosa
-Lottia-pelta
-Lottia-digitalis
-Lottia-paradigitalis-strigatella
-Lottia-scutum
-Onchidella-borealis
-Katharina-tunicata
+Nucella ostrina
+Nucella canalicalata
+Nucella lamellosa
+Lottia pelta
+Lottia digitalis
+Lottia paradigitalis
+Lottia (Tectura) scutum
+Onchidella borealis
+Katharina tunicata
 Mopalia
-Nereis
-Emplectonema
-Littorina-sitkana
-Littorina-scutulata
-Strongylocentrotus-purpuratus
-Strongylocentrotus-droebachensis
-Strongylocentrotus-franciscanus
-Lepasterias-hexactis
+Nereis vexillosa
+Emplectonema gracile
+Littorina sitkana
+Littorina scutulata
+Strongylocentrotus purpuratus
+Strongylocentrotus droebachensis
+Strongylocentrotus franciscanus
+Leptasterias hexactis
 Amphipoda
-Amphissa-columbiana
-Idotea
+Amphissa columbiana
+Idotea wosnesenskii
 Cirolana
 Chironomidae
-Tonicella-lineata
-Calliostoma-ligatum
-Hermit-Crab
-Sipunculid
-Cucumaria
-Ocenebra-interfossa
+Tonicella lineata
+Calliostoma ligatum
+Pagurid
+Phascolosoma agassizii
+Cucumaria pseudocurata
+Ocenebra interfossa
 Petrolisthes
-Tegula-funebrialis
-Lacuna-vincta
-Ophiuroid
+Chlorostoma (Tegula) funebralis
+Lacuna vincta
+Ophiuroidea
 Notoplana
-Skinny-annelid
+Nereis sp.
 Lepidochitona
-Dialula-sandiegensis
-Columbellidae
-Archidoris-montereyensis
-Oedignathus
-Pinnotheres-pisum
-Odostomia-columbiana
-sand-tube-worm
-Megatebennus-bimaculatus
-Olgocottus-maculosus
-Hermissenda-crassicornis
-Ceratostoma-trifoliatum
-Pisaster-ocraceous
-Clinocottus-embryum
-Bledius-Beetle
-Siphonaria
-Small-Turret
-Scale-Worm
+Dialula (Discodoris)  sandiegensis
+Alia
+Archidoris montereyensis
+Oedignathus inermis
+Pinnotheres plsum
+Odostomia columbiana
+sand tube worm
+Fissurelidia (Megatebennus) bimaculatus
+Oligocottus maculosus
+Hermissenda (Phidiana) crassicornis
+Ceratostoma foliatum
+Pisaster ochraceus
+Clinocottus embryum
+Staphylinid  Beetle
+Siphonaria thersites
+Small Turrid
+Halosydna brevisetosa
 Stichaeidae
 Henricia
-Opalia-wentletrap
-Clinocottus-globiceps
-Larus-glaucescens
-Haematopus-bachmani
-Corvus-caurinus
+Opalia montereyensis
+Clinocottus globiceps
+Larus glaucescens
+Haematopus bachmani
+Corvus caurinus
 Detritus
 Phytoplankton
 Zooplankton
-Particulate-Detritus
-Paranemertes
-Amphiporus
-Haliaeetus-leucocephalus
-Falco-peregrinus
-Pelagic-Fish
+Particulate Detritus
+Paranemertes peregrina
+Amphiporus bimaculatus
+Haliaeetus leucocephalus
+Falco peregrinus
+Pelagic Fish
