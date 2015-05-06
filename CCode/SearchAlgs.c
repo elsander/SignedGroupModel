@@ -105,8 +105,7 @@ double MC3 (int N,
 			gsl_vector_short * BestSolution,
 			gsl_rng * r,
 			gsl_vector * lgammaLookup,
-			gsl_vector * logLookup,
-			int LogYN){
+			gsl_vector * logLookup){
 
 	// create the chains
 	gsl_vector_short * Chains[nChains];
@@ -134,27 +133,12 @@ double MC3 (int N,
 	gsl_vector * Temps = gsl_vector_calloc(nChains);
 	//step size for incrementing temperatures
 	double StepSize;
-	if(LogYN == 0){
-		StepSize = (COLDTEMP - HOTTEMP)/((double)nChains - 1);
-		gsl_vector_set(Temps, 0, HOTTEMP);
-		for(i=1; i<(nChains-2); i++){
-			gsl_vector_set(Temps, i, gsl_vector_get(Temps, i-1)+StepSize);
-		}
-		gsl_vector_set(Temps, 0, COLDTEMP);
+	StepSize = (COLDTEMP - HOTTEMP)/((double)nChains - 1);
+	gsl_vector_set(Temps, 0, HOTTEMP);
+	for(i=1; i<(nChains-2); i++){
+		gsl_vector_set(Temps, i, gsl_vector_get(Temps, i-1)+StepSize);
 	}
-	else {
-		double LogCold = exp(COLDTEMP);
-		double LogHot = exp(HOTTEMP);
-		StepSize = (LogCold - LogHot)/((double)nChains - 1);
-		gsl_vector_set(Temps, 0, LogHot);
-		for(i=1; i<(nChains-2); i++){
-			gsl_vector_set(Temps, i, gsl_vector_get(Temps, i-1)+StepSize);
-		}
-		gsl_vector_set(Temps, 0, LogCold);
-		for(i=1; i<nChains; i++){
-			gsl_vector_set(Temps, i, exp(gsl_vector_get(Temps, i)));
-		}
-	}
+	gsl_vector_set(Temps, 0, COLDTEMP);
 
 	//for convenience, we want a copy of the Temps vector that doesn't
 	//get swapped around
