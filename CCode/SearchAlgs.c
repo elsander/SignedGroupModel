@@ -135,7 +135,7 @@ double MC3 (int N,
 	double StepSize;
 	StepSize = (COLDTEMP - HOTTEMP)/((double)nChains - 1);
 	gsl_vector_set(Temps, 0, HOTTEMP);
-	for(i=1; i<(nChains-2); i++){
+	for(i=1; i<(nChains-1); i++){
 		gsl_vector_set(Temps, i, gsl_vector_get(Temps, i-1)+StepSize);
 	}
 	gsl_vector_set(Temps, 0, COLDTEMP);
