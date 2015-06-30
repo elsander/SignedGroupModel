@@ -32,3 +32,6 @@ between two partitions relative to the maximum possible MI.
 `RandomizationPvals.R` calculates the p-value associated with a MI
 value (here, the p-value is the probability of getting an equal or
 higher MI when the group identities in the partitions are randomized).
+
+
+License: MIT
