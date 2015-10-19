@@ -138,7 +138,7 @@ double MC3 (int N,
 	for(i=1; i<(nChains-1); i++){
 		gsl_vector_set(Temps, i, gsl_vector_get(Temps, i-1)+StepSize);
 	}
-	gsl_vector_set(Temps, 0, COLDTEMP);
+	gsl_vector_set(Temps, nChains-1, COLDTEMP);
 
 	//for convenience, we want a copy of the Temps vector that doesn't
 	//get swapped around
